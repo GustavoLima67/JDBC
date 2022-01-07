@@ -12,4 +12,4 @@ Primeiro projeto test com JDBC e MySQL
 
 Finalmente chegou no que eu tanto esperava o "Banco de dados"!!
 Estive muito tempo esperandoo consiguir dominar o JDBC (Banco de Dados),
-então a partir daqui vou publicando conforme vou aprendendo!! Aguardem.
+então a partir daqui vou publicando projetos que fiz para praticar!
