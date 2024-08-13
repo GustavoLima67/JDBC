@@ -4,7 +4,7 @@ Primeiro projeto test com JDBC e MySQL
 * **JDBC**
 * **MySQL**
 * **MySQL Workbench**
-* **Associa o eclipse com MySQL**
+* **Associar o eclipse com MySQL**
 # O que foi usado no código
 * **POO**
 * **Try/Catch**
